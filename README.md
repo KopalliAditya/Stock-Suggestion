@@ -8,7 +8,7 @@ The Stock Portfolio Suggestion Engine utilizes various investment strategies, su
 
 Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine Demo](https://www.youtube.com/watch?v=iDp8JD8DF80)
 
-![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/blob/master/results-thumbnail.PNG?raw=true)
+![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/blob/master/results-thumbnail.PNG)
 
 ### Features
 
