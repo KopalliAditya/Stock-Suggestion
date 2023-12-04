@@ -6,9 +6,9 @@ The Stock Portfolio Suggestion Engine utilizes various investment strategies, su
 
 ### Demo of the App
 
-Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine Demo](https://www.youtube.com/watch?v=iDp8JD8DF80)
+<!-- Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine Demo](https://www.youtube.com/watch?v=iDp8JD8DF80) -->
 
-![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/raw/master/results-thumbnail.PNG)
+![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/blob/main/results-thumbnail.PNG)
 
 ### Features
 
@@ -50,6 +50,52 @@ Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine 
 - REST
 - IEX Stock API
 - TradingView Market Overview Widget
+
+### Running the Backend
+1. Navigate to the `backend` directory:
+
+    ```bash
+    cd backend
+    ```
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the Flask app:
+
+    ```bash
+    python stock-suggestion-server.py
+    ```
+
+   The backend server should be running at http://127.0.0.1:5000
+
+### Running the Frontend
+1. Navigate to the `frontend` directory:
+
+    ```bash
+    cd frontend
+    ```
+
+2. Install the required dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the React app:
+
+    ```bash
+    npm start
+    ```
+
+   The frontend should be accessible at http://localhost:3000.
+
+Open your web browser and visit http://localhost:3000 to interact with the Stock Portfolio Suggestion Engine.
+
+
 
 ### Team Members
 
