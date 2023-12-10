@@ -10,6 +10,8 @@ The Stock Portfolio Suggestion Engine utilizes various investment strategies, su
 
 ![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/blob/main/results-thumbnail.PNG)
 
+[YouTube video](https://www.youtube.com/watch?v=KbkJqe3dmPw)
+
 ### Features
 
 1. User inputs the investment amount in USD (Minimum: $5000 USD).
